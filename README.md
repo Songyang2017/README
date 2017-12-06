@@ -21,5 +21,5 @@ github的readme写作学习
   我是单行文本   
 文字链接    
 [我的微博](https://weibo.com/5695601692/profile?rightmod=1&wvr=6&mod=personinfo)  
-[知乎](zhihu)
+[知乎](www.zhihu.com)
  
