@@ -18,9 +18,7 @@ github的readme写作学习
 图片  
 ![海贼王](http://comic.sfacg.com/Upload/Cover/1f763147-9b77-44c9-96cf-22324247c94d.jpg)  
 
-  我是单行文本
-    
-  我是
-多行
-文本哦
+  我是单行文本   
+文字链接    
+[我的微博](https://weibo.com/5695601692/profile?rightmod=1&wvr=6&mod=personinfo)
  
